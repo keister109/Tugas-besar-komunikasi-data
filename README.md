@@ -1,4 +1,4 @@
-<center><img src="Gambar/logo_iteba.png" alt="Logo Iteba" width="200"/></center>
+<center><img src="logo Main.png" alt="Logo Iteba" width="200"/></center>
 
 # Tugas Besar Komunikasi Data Kelompok 4
 
